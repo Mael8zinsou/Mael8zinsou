@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mael ZINSOU
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning R and Python
-- 📫 Can reach me on 'maelzm6@gmail.com'
+- 📫 Can reach me on 'maelmike.zinsou@gmail.com'
 - 😄 Pronouns: He/Him
 
 <!---
